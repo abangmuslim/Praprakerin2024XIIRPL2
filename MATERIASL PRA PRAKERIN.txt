@@ -1,0 +1,31 @@
+Ms. Word
+Page Setup/Margin
+Heading / Setup Font
+Daftar Isi Otomatis
+Daftar Gambar Otomatis
+Page Number
+Membuat tabel
+Membuat daftar pustaka otomatis
+Mail Merge (studi kasus buat sertifikat)
+
+Ms. Excel
+Cell (Kolom dan Baris)
+Format Cell (mata uang, tanggal, dll)
+Operasi matematika dasar
+SUM, AVERAGE, MIN, MAX
+Fungsi Logika (IF dan IFNA)
+Chart
+Vlookup/Hlookup
+Shorting dan Filtering
+
+Power Point
+Pengaturan Slide dan Desain
+Membuat Slide Presentasi Efektif
+Tata cara presentasi
+
+Perancangan Perangkat Lunak
+Analisis
+Desain
+Development
+Testing
+Maintainance
